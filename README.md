@@ -8,5 +8,5 @@ educate the citizens.
 The system is deployed on a cloud platforms and accessed easily over the web using any browser.
 #Contributing
 Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
-#License
+
 
